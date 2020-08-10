@@ -1,0 +1,22 @@
+{
+    "name": "toyrobot/sundar",
+    "description": "Toy Robot Automation",
+    "type": "project",
+    "license": "sundar",
+    "authors": [
+        {
+            "name": "sundar",
+            "email": "sundarban007@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "mockery/mockery": "^1.4"
+    }
+}
